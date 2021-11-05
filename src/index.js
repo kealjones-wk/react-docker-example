@@ -6,7 +6,7 @@ import "./styles.css";
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to Docker 101</h1>
+      <h1>Welcome to Docker 101 eh</h1>
       <h2>Start editing to see some magic happen!</h2>
     </div>
   );
